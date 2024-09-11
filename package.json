@@ -1,0 +1,16 @@
+{
+  "name": "rpg-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Abhay",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^32.0.1",
+    "electron-packager": "^17.1.2"
+  }
+}
